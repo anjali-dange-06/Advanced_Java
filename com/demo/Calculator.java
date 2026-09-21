@@ -10,7 +10,10 @@ public static void main(String args[]) {
 	//by using java8 we can implemetn functional oriented programming
 	//if we are pasing a funvtion to another function is called functional orientedprogramming
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> f58c03e (Added Java 8 practice programs)
 	
 	//way 1
 	Addition add=new Addition();
@@ -40,7 +43,12 @@ public static void main(String args[]) {
 	
 	System.out.println("=====================================");
 	//lambda expression works on only functional interface
+<<<<<<< HEAD
 
+=======
+    //when we pass one function to another function is called functional oriented programming
+    //here we dont need to make class and no need to make any object
+>>>>>>> f58c03e (Added Java 8 practice programs)
 	//way 3
 	Calculator.Operation((int a,int b)->{
 		System.out.println("Addition  is : "+(a+b));
@@ -91,6 +99,7 @@ public static void main(String args[]) {
    //             
   //                                 }
 
+<<<<<<< HEAD
 
 	
 	
@@ -100,6 +109,8 @@ public static void main(String args[]) {
 	
 	
 	
+=======
+>>>>>>> f58c03e (Added Java 8 practice programs)
 	
 	
 //  MARKER INTERFACE     ===>2===>DOES NOT HAVE ANY METHOD   EG.serializable,clonable
@@ -111,6 +122,12 @@ public static void main(String args[]) {
 	       //cc.name="anjali";
           //above objects will get converted into stream  
 	  //   }
+<<<<<<< HEAD
+=======
+
+	
+	
+>>>>>>> f58c03e (Added Java 8 practice programs)
 //  GENERIC INTERFACE   ===>GENERIC INTERFACE
 //  NORMAL INTERFACE    ===>	
 	
